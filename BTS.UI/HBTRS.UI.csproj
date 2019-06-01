@@ -1,0 +1,961 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AFCC568B-9F8B-41AC-B46F-9E94EBA1EA5E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BTS.UI</RootNamespace>
+    <AssemblyName>BTS.UI</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CodeSetup\BusType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CodeSetup\BusType.Designer.cs">
+      <DependentUpon>BusType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CodeSetup\Driver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CodeSetup\Driver.Designer.cs">
+      <DependentUpon>Driver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CodeSetup\Location.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CodeSetup\Location.Designer.cs">
+      <DependentUpon>Location.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CodeSetup\TimeSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CodeSetup\TimeSchedule.Designer.cs">
+      <DependentUpon>TimeSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CodeSetup\UserLevel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CodeSetup\UserLevel.Designer.cs">
+      <DependentUpon>UserLevel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\BusDataSet.cs">
+      <DependentUpon>BusDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\BusDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BusDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\BusTypeDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BusTypeDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DriverDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DriverDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\LocationDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LocationDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\RouteDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RouteDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\SaleDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SaleDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\TimeScheduleDataSet.cs">
+      <DependentUpon>TimeScheduleDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\TimeScheduleDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TimeScheduleDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\TripDataSet.cs">
+      <DependentUpon>TripDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\TripDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TripDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\UserDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UserDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\UserLevelDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UserLevelDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FlatForm\Bus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FlatForm\Bus.Designer.cs">
+      <DependentUpon>Bus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FlatForm\Route.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FlatForm\Route.Designer.cs">
+      <DependentUpon>Route.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FlatForm\TripPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FlatForm\TripPlan.Designer.cs">
+      <DependentUpon>TripPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FlatForm\User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FlatForm\User.Designer.cs">
+      <DependentUpon>User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Globalizer.cs" />
+    <Compile Include="Grid\Booking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grid\Booking.Designer.cs">
+      <DependentUpon>Booking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Grid\Sale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grid\Sale.Designer.cs">
+      <DependentUpon>Sale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenuForAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenuForAdmin.Designer.cs">
+      <DependentUpon>MainMenuForAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenuForStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenuForStaff.Designer.cs">
+      <DependentUpon>MainMenuForStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Posting\SalePosting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Posting\SalePosting.Designer.cs">
+      <DependentUpon>SalePosting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Process\BookingCancel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Process\BookingCancel.Designer.cs">
+      <DependentUpon>BookingCancel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Process\Trip Confirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Process\Trip Confirm.designer.cs">
+      <DependentUpon>Trip Confirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CodeSetup\BusType.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BusType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CodeSetup\Driver.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Driver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CodeSetup\Location.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Location.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CodeSetup\TimeSchedule.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TimeSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CodeSetup\UserLevel.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UserLevel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FlatForm\Bus.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Bus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FlatForm\Route.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Route.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FlatForm\TripPlan.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TripPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FlatForm\User.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grid\Booking.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Booking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grid\Sale.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Sale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenuForAdmin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainMenuForAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenuForStaff.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainMenuForStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Posting\SalePosting.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SalePosting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Process\BookingCancel.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BookingCancel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Process\Trip Confirm.resx">
+      <DependentUpon>Trip Confirm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportAll.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\BusReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BusReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\BusTypeReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BusTypeReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\DailyReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DailyReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\DriverReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DriverReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\LocationReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LocationReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\MonthlyDetailReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MonthlyDetailReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\MonthlySummaryReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MonthlySummaryReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\ReportByOneTripDetail.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportByOneTripDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\ReportByOneTripSummary.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportByOneTripSummary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\ReportBySaleDateDetail.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportBySaleDateDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\ReportBySaleDateSummary.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportBySaleDateSummary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\ReportBySaleNoDetail.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportBySaleNoDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\ReportBySaleNoSummary.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportBySaleNoSummary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\ReportByTripCodeDetail.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportByTripCodeDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\ReportByTripCodeSummary.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportByTripCodeSummary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\RouteReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RouteReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\TimeScheduleReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TimeScheduleReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\TripByBusNoReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TripByBusNoReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\TripByDriverNameReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TripByDriverNameReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\TripByRouteNameReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TripByRouteNameReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\TripCodeReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TripCodeReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\TripDateReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TripDateReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\UserLevelReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UserLevelReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\UserReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UserReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\YearlyDetailReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>YearlyDetailReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDisplay\YearlySummaryReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>YearlySummaryReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportFiles\BusReport.rdlc">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportFiles\BusTypeReport.rdlc" />
+    <EmbeddedResource Include="ReportFiles\DailyReport.rdlc" />
+    <EmbeddedResource Include="ReportFiles\DriverReport.rdlc" />
+    <EmbeddedResource Include="ReportFiles\LocationReport.rdlc" />
+    <EmbeddedResource Include="ReportFiles\MonthlyDetailReport.rdlc" />
+    <EmbeddedResource Include="ReportFiles\MonthlySummaryReport.rdlc" />
+    <EmbeddedResource Include="ReportFiles\ReportByOneTripDetail.rdlc" />
+    <EmbeddedResource Include="ReportFiles\ReportByOneTripSummary.rdlc" />
+    <EmbeddedResource Include="ReportFiles\ReportBySaleDateDetail.rdlc" />
+    <EmbeddedResource Include="ReportFiles\ReportBySaleDateSummary.rdlc" />
+    <EmbeddedResource Include="ReportFiles\ReportBySaleNoDetail.rdlc" />
+    <EmbeddedResource Include="ReportFiles\ReportBySaleNoSummary.rdlc" />
+    <EmbeddedResource Include="ReportFiles\ReportByTripCodeDetail.rdlc" />
+    <EmbeddedResource Include="ReportFiles\ReportByTripCodeSummary.rdlc" />
+    <EmbeddedResource Include="ReportFiles\RouteReport.rdlc" />
+    <EmbeddedResource Include="ReportFiles\TimeScheduleReport.rdlc" />
+    <EmbeddedResource Include="ReportFiles\TripByBusNoReport.rdlc" />
+    <EmbeddedResource Include="ReportFiles\TripByDriverNameReport.rdlc" />
+    <EmbeddedResource Include="ReportFiles\TripByRouteNameReport.rdlc" />
+    <EmbeddedResource Include="ReportFiles\TripCodeReport.rdlc" />
+    <EmbeddedResource Include="ReportFiles\TripDateReport.rdlc" />
+    <EmbeddedResource Include="ReportFiles\UserLevelReport.rdlc" />
+    <EmbeddedResource Include="ReportFiles\UserReport.rdlc" />
+    <EmbeddedResource Include="ReportFiles\YearlyDetailReport.rdlc" />
+    <EmbeddedResource Include="ReportFiles\YearlySummaryReport.rdlc" />
+    <EmbeddedResource Include="Reports\DailyReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DailyReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\MonthlyReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MonthlyReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\ReportByOneTrip.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportByOneTrip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\ReportBySaleDate.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportBySaleDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\ReportBySaleNo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportBySaleNo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\ReportByTripCode.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportByTripCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\TripReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TripReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\YearlyReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>YearlyReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeatDisplay.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SeatDisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserActionLogViewer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UserActionLogViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\NewEditExitButton.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>NewEditExitButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\QuickSearch.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>QuickSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ReportAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportAll.Designer.cs">
+      <DependentUpon>ReportAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\BusReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\BusReport.Designer.cs">
+      <DependentUpon>BusReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\BusTypeReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\BusTypeReport.Designer.cs">
+      <DependentUpon>BusTypeReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\DailyReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\DailyReport.Designer.cs">
+      <DependentUpon>DailyReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\DriverReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\DriverReport.Designer.cs">
+      <DependentUpon>DriverReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\LocationReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\LocationReport.Designer.cs">
+      <DependentUpon>LocationReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\MonthlyDetailReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\MonthlyDetailReport.Designer.cs">
+      <DependentUpon>MonthlyDetailReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\MonthlySummaryReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\MonthlySummaryReport.Designer.cs">
+      <DependentUpon>MonthlySummaryReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\ReportByOneTripDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\ReportByOneTripDetail.Designer.cs">
+      <DependentUpon>ReportByOneTripDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\ReportByOneTripSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\ReportByOneTripSummary.Designer.cs">
+      <DependentUpon>ReportByOneTripSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\ReportBySaleDateDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\ReportBySaleDateDetail.Designer.cs">
+      <DependentUpon>ReportBySaleDateDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\ReportBySaleDateSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\ReportBySaleDateSummary.Designer.cs">
+      <DependentUpon>ReportBySaleDateSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\ReportBySaleNoDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\ReportBySaleNoDetail.Designer.cs">
+      <DependentUpon>ReportBySaleNoDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\ReportBySaleNoSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\ReportBySaleNoSummary.Designer.cs">
+      <DependentUpon>ReportBySaleNoSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\ReportByTripCodeDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\ReportByTripCodeDetail.Designer.cs">
+      <DependentUpon>ReportByTripCodeDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\ReportByTripCodeSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\ReportByTripCodeSummary.Designer.cs">
+      <DependentUpon>ReportByTripCodeSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\RouteReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\RouteReport.Designer.cs">
+      <DependentUpon>RouteReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\TimeScheduleReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\TimeScheduleReport.Designer.cs">
+      <DependentUpon>TimeScheduleReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\TripByBusNoReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\TripByBusNoReport.Designer.cs">
+      <DependentUpon>TripByBusNoReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\TripByDriverNameReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\TripByDriverNameReport.Designer.cs">
+      <DependentUpon>TripByDriverNameReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\TripByRouteNameReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\TripByRouteNameReport.Designer.cs">
+      <DependentUpon>TripByRouteNameReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\TripCodeReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\TripCodeReport.Designer.cs">
+      <DependentUpon>TripCodeReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\TripDateReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\TripDateReport.Designer.cs">
+      <DependentUpon>TripDateReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\UserLevelReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\UserLevelReport.Designer.cs">
+      <DependentUpon>UserLevelReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\UserReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\UserReport.Designer.cs">
+      <DependentUpon>UserReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\YearlyDetailReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\YearlyDetailReport.Designer.cs">
+      <DependentUpon>YearlyDetailReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDisplay\YearlySummaryReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportDisplay\YearlySummaryReport.Designer.cs">
+      <DependentUpon>YearlySummaryReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\DailyReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\DailyReport.Designer.cs">
+      <DependentUpon>DailyReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\MonthlyReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\MonthlyReport.Designer.cs">
+      <DependentUpon>MonthlyReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\ReportByOneTrip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\ReportByOneTrip.Designer.cs">
+      <DependentUpon>ReportByOneTrip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\ReportBySaleDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\ReportBySaleDate.Designer.cs">
+      <DependentUpon>ReportBySaleDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\ReportBySaleNo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\ReportBySaleNo.Designer.cs">
+      <DependentUpon>ReportBySaleNo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\ReportByTripCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\ReportByTripCode.Designer.cs">
+      <DependentUpon>ReportByTripCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\TripReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\TripReport.Designer.cs">
+      <DependentUpon>TripReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\YearlyReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\YearlyReport.Designer.cs">
+      <DependentUpon>YearlyReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search.Designer.cs">
+      <DependentUpon>Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeatDisplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeatDisplay.Designer.cs">
+      <DependentUpon>SeatDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserAction.cs" />
+    <Compile Include="UserActionLogViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserActionLogViewer.Designer.cs">
+      <DependentUpon>UserActionLogViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\NewEditExitButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\NewEditExitButton.Designer.cs">
+      <DependentUpon>NewEditExitButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\QuickSearch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\QuickSearch.Designer.cs">
+      <DependentUpon>QuickSearch.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BTS.BusinessLogic\HBTRS.BusinessLogic.csproj">
+      <Project>{16A9A250-6ABE-48B4-916B-8A31E53E6930}</Project>
+      <Name>BTS.BusinessLogic</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\BTS.BusinessLogic.dll" />
+    <Content Include="bin\Debug\BTS.BusinessLogic.pdb" />
+    <Content Include="bin\Debug\BTS.DataAccess.dll" />
+    <Content Include="bin\Debug\BTS.DataAccess.pdb" />
+    <Content Include="bin\Debug\BTS.UI.exe" />
+    <Content Include="bin\Debug\BTS.UI.pdb" />
+    <Content Include="bin\Debug\BTS.UI.vshost.exe" />
+    <Content Include="Resources\b.JPG" />
+    <None Include="Resources\b1.JPG" />
+    <None Include="Resources\images5.jpg" />
+    <None Include="Resources\images4.jpg" />
+    <None Include="Resources\images3.jpg" />
+    <None Include="Resources\images.jpg" />
+    <None Include="Resources\Iconblock-Remixed-Bus.ico" />
+    <None Include="Resources\ShortcutLog.png" />
+    <None Include="Resources\ShortCutReport.png" />
+    <None Include="Resources\ShortcutPosting.png" />
+    <None Include="Resources\ShortcutUser.png" />
+    <None Include="Resources\App-logout-icon.png" />
+    <None Include="Resources\ExitExit.png" />
+    <None Include="Resources\Actions-application-exit-icon.png" />
+    <None Include="Resources\Exit.png" />
+    <None Include="Resources\Exit.ico" />
+    <None Include="Resources\user-login-icon.png" />
+    <None Include="Resources\MenuTripConfirm.png" />
+    <None Include="Resources\MenuBookingCancel.png" />
+    <None Include="Resources\MenuProcesss.png" />
+    <None Include="Resources\LogOut.png" />
+    <None Include="Resources\MenuPosting.png" />
+    <None Include="Resources\MenuBookingProccess2.png" />
+    <None Include="Resources\MenuUser2.png" />
+    <None Include="Resources\MenuUser.png" />
+    <None Include="Resources\MenuUserEntry.png" />
+    <None Include="Resources\tickets-icon.png" />
+    <None Include="Resources\dollar-icon.png" />
+    <None Include="Resources\Money-Calculator-icon.png" />
+    <None Include="Resources\Printer-icon.png" />
+    <None Include="Resources\MenuReport.png" />
+    <None Include="Resources\MenuProcess.png" />
+    <None Include="Resources\MenuTransaction.png" />
+    <None Include="Resources\MenuLocation.png" />
+    <None Include="Resources\MenuDriver.png" />
+    <None Include="Resources\MenuData.png" />
+    <None Include="Resources\MenuBusType2.png" />
+    <None Include="Resources\MenuBusType.png" />
+    <None Include="Resources\MenuBooking.png" />
+    <None Include="Resources\MenuTripPlan.png" />
+    <None Include="Resources\MenuTripEntry.png" />
+    <None Include="Resources\MenuSchedule1.png" />
+    <None Include="Resources\MenuSchedule.png" />
+    <None Include="Resources\MenuSale.png" />
+    <None Include="Resources\MenuRoute.png" />
+    <None Include="DataSet\BusDataSet.xsc">
+      <DependentUpon>BusDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\BusDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BusDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\BusDataSet.xss">
+      <DependentUpon>BusDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\BusTypeDataSet.xsc">
+      <DependentUpon>BusTypeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\BusTypeDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BusTypeDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\BusTypeDataSet.xss">
+      <DependentUpon>BusTypeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DriverDataSet.xsc">
+      <DependentUpon>DriverDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DriverDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DriverDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DriverDataSet.xss">
+      <DependentUpon>DriverDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\LocationDataSet.xsc">
+      <DependentUpon>LocationDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\LocationDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LocationDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\LocationDataSet.xss">
+      <DependentUpon>LocationDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\RouteDataSet.xsc">
+      <DependentUpon>RouteDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\RouteDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>RouteDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\RouteDataSet.xss">
+      <DependentUpon>RouteDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\SaleDataSet.xsc">
+      <DependentUpon>SaleDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\SaleDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SaleDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\SaleDataSet.xss">
+      <DependentUpon>SaleDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\TimeScheduleDataSet.xsc">
+      <DependentUpon>TimeScheduleDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\TimeScheduleDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TimeScheduleDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\TimeScheduleDataSet.xss">
+      <DependentUpon>TimeScheduleDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\TripDataSet.xsc">
+      <DependentUpon>TripDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\TripDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TripDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\TripDataSet.xss">
+      <DependentUpon>TripDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\UserDataSet.xsc">
+      <DependentUpon>UserDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\UserDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>UserDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\UserDataSet.xss">
+      <DependentUpon>UserDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\UserLevelDataSet.xsc">
+      <DependentUpon>UserLevelDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\UserLevelDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>UserLevelDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\UserLevelDataSet.xss">
+      <DependentUpon>UserLevelDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\sbs4.png" />
+    <None Include="bin\Debug\BTS.UI.exe.config" />
+    <None Include="bin\Debug\BTS.UI.vshost.exe.config" />
+    <None Include="Resources\cancel.png" />
+    <None Include="Resources\Close.png" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\edit.png" />
+    <None Include="Resources\imasges.png" />
+    <None Include="Resources\indesx.png" />
+    <None Include="Resources\save.png" />
+    <None Include="Resources\sa1.png" />
+    <None Include="Resources\sb3.png" />
+    <None Include="Resources\ss2.png" />
+    <None Include="Resources\Update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

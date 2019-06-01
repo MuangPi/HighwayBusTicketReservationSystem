@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BusDataSet" targetNamespace="http://tempuri.org/BusDataSet.xsd" xmlns:mstns="http://tempuri.org/BusDataSet.xsd" xmlns="http://tempuri.org/BusDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="BusDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="BusDataSet" msprop:Generator_DataSetName="BusDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="BusDataTable" msprop:Generator_UserTableName="BusDataTable" msprop:Generator_RowDeletedName="BusDataTableRowDeleted" msprop:Generator_TableClassName="BusDataTableDataTable" msprop:Generator_RowChangedName="BusDataTableRowChanged" msprop:Generator_RowClassName="BusDataTableRow" msprop:Generator_RowChangingName="BusDataTableRowChanging" msprop:Generator_RowEvArgName="BusDataTableRowChangeEvent" msprop:Generator_RowEvHandlerName="BusDataTableRowChangeEventHandler" msprop:Generator_TablePropName="BusDataTable" msprop:Generator_TableVarName="tableBusDataTable" msprop:Generator_RowDeletingName="BusDataTableRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BusID" msprop:Generator_UserColumnName="BusID" msprop:Generator_ColumnPropNameInRow="BusID" msprop:Generator_ColumnVarNameInTable="columnBusID" msprop:Generator_ColumnPropNameInTable="BusIDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BusCode" msprop:Generator_UserColumnName="BusCode" msprop:Generator_ColumnPropNameInRow="BusCode" msprop:Generator_ColumnVarNameInTable="columnBusCode" msprop:Generator_ColumnPropNameInTable="BusCodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BusNo" msprop:Generator_UserColumnName="BusNo" msprop:Generator_ColumnPropNameInRow="BusNo" msprop:Generator_ColumnVarNameInTable="columnBusNo" msprop:Generator_ColumnPropNameInTable="BusNoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BusTypeID" msprop:Generator_UserColumnName="BusTypeID" msprop:Generator_ColumnPropNameInRow="BusTypeID" msprop:Generator_ColumnVarNameInTable="columnBusTypeID" msprop:Generator_ColumnPropNameInTable="BusTypeIDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Description" msprop:Generator_UserColumnName="Description" msprop:Generator_ColumnPropNameInRow="Description" msprop:Generator_ColumnVarNameInTable="columnDescription" msprop:Generator_ColumnPropNameInTable="DescriptionColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalSeats" msprop:Generator_UserColumnName="TotalSeats" msprop:Generator_ColumnPropNameInRow="TotalSeats" msprop:Generator_ColumnVarNameInTable="columnTotalSeats" msprop:Generator_ColumnPropNameInTable="TotalSeatsColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

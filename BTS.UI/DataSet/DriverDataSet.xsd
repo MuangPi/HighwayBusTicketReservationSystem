@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DriverDataSet" targetNamespace="http://tempuri.org/DriverDataSet.xsd" xmlns:mstns="http://tempuri.org/DriverDataSet.xsd" xmlns="http://tempuri.org/DriverDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DriverDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DriverDataSet" msprop:Generator_DataSetName="DriverDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DriverDataTable" msprop:Generator_UserTableName="DriverDataTable" msprop:Generator_RowDeletedName="DriverDataTableRowDeleted" msprop:Generator_TableClassName="DriverDataTableDataTable" msprop:Generator_RowChangedName="DriverDataTableRowChanged" msprop:Generator_RowClassName="DriverDataTableRow" msprop:Generator_RowChangingName="DriverDataTableRowChanging" msprop:Generator_RowEvArgName="DriverDataTableRowChangeEvent" msprop:Generator_RowEvHandlerName="DriverDataTableRowChangeEventHandler" msprop:Generator_TablePropName="DriverDataTable" msprop:Generator_TableVarName="tableDriverDataTable" msprop:Generator_RowDeletingName="DriverDataTableRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DriverID" msprop:Generator_UserColumnName="DriverID" msprop:Generator_ColumnPropNameInRow="DriverID" msprop:Generator_ColumnVarNameInTable="columnDriverID" msprop:Generator_ColumnPropNameInTable="DriverIDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DriverCode" msprop:Generator_UserColumnName="DriverCode" msprop:Generator_ColumnPropNameInRow="DriverCode" msprop:Generator_ColumnVarNameInTable="columnDriverCode" msprop:Generator_ColumnPropNameInTable="DriverCodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DriverName" msprop:Generator_UserColumnName="DriverName" msprop:Generator_ColumnPropNameInRow="DriverName" msprop:Generator_ColumnVarNameInTable="columnDriverName" msprop:Generator_ColumnPropNameInTable="DriverNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DriverLicence" msprop:Generator_UserColumnName="DriverLicence" msprop:Generator_ColumnPropNameInRow="DriverLicence" msprop:Generator_ColumnVarNameInTable="columnDriverLicence" msprop:Generator_ColumnPropNameInTable="DriverLicenceColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="NRCNo" msprop:Generator_UserColumnName="NRCNo" msprop:Generator_ColumnPropNameInRow="NRCNo" msprop:Generator_ColumnVarNameInTable="columnNRCNo" msprop:Generator_ColumnPropNameInTable="NRCNoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PhoneNo" msprop:Generator_UserColumnName="PhoneNo" msprop:Generator_ColumnPropNameInRow="PhoneNo" msprop:Generator_ColumnVarNameInTable="columnPhoneNo" msprop:Generator_ColumnPropNameInTable="PhoneNoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Address" msprop:Generator_UserColumnName="Address" msprop:Generator_ColumnPropNameInRow="Address" msprop:Generator_ColumnVarNameInTable="columnAddress" msprop:Generator_ColumnPropNameInTable="AddressColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

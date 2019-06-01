@@ -1,0 +1,117 @@
+F:\BTSwin\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+F:\BTSwin\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+F:\BTSwin\BTS\BTS.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+F:\BTSwin\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+F:\BTSwin\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb
+G:\BTSwin\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+G:\BTSwin\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+G:\BTSwin\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.dll
+G:\BTSwin\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.pdb
+G:\BTSwin\BTS\BTS.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+G:\BTSwin\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+G:\BTSwin\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb
+C:\Users\hp\Desktop\BusTicket\BTSwin\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+C:\Users\hp\Desktop\BusTicket\BTSwin\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+C:\Users\hp\Desktop\BusTicket\BTSwin\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.dll
+C:\Users\hp\Desktop\BusTicket\BTSwin\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.pdb
+C:\Users\hp\Desktop\BusTicket\BTSwin\BTS\BTS.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Desktop\BusTicket\BTSwin\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+C:\Users\hp\Desktop\BusTicket\BTSwin\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb
+C:\Users\ThetAung\Desktop\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+C:\Users\ThetAung\Desktop\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+C:\Users\ThetAung\Desktop\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.dll
+C:\Users\ThetAung\Desktop\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.pdb
+C:\Users\ThetAung\Desktop\BTS\BTS.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ThetAung\Desktop\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+C:\Users\ThetAung\Desktop\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb
+C:\Users\hp\Desktop\NNL\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+C:\Users\hp\Desktop\NNL\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+C:\Users\hp\Desktop\NNL\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.dll
+C:\Users\hp\Desktop\NNL\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.pdb
+C:\Users\hp\Desktop\NNL\BTS\BTS.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Desktop\NNL\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+C:\Users\hp\Desktop\NNL\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb
+C:\Users\ThetAung\Desktop\NNL\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+C:\Users\ThetAung\Desktop\NNL\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+C:\Users\ThetAung\Desktop\NNL\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.dll
+C:\Users\ThetAung\Desktop\NNL\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.pdb
+C:\Users\ThetAung\Desktop\NNL\BTS\BTS.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ThetAung\Desktop\NNL\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+C:\Users\ThetAung\Desktop\NNL\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb
+C:\Users\hp\Desktop\BTS (final trip and report)\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+C:\Users\hp\Desktop\BTS (final trip and report)\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+C:\Users\hp\Desktop\BTS (final trip and report)\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.dll
+C:\Users\hp\Desktop\BTS (final trip and report)\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.pdb
+C:\Users\hp\Desktop\BTS (final trip and report)\BTS\BTS.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Desktop\BTS (final trip and report)\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+C:\Users\hp\Desktop\BTS (final trip and report)\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb
+C:\Users\hp\Desktop\Backup\BTS (final trip and report)\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+C:\Users\hp\Desktop\Backup\BTS (final trip and report)\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+C:\Users\hp\Desktop\Backup\BTS (final trip and report)\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.dll
+C:\Users\hp\Desktop\Backup\BTS (final trip and report)\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.pdb
+C:\Users\hp\Desktop\Backup\BTS (final trip and report)\BTS\BTS.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Backup\BTS (final trip and report)\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+C:\Users\hp\Desktop\Backup\BTS (final trip and report)\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb
+G:\BTS (KSM)\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+G:\BTS (KSM)\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+G:\BTS (KSM)\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.dll
+G:\BTS (KSM)\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.pdb
+G:\BTS (KSM)\BTS\BTS.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+G:\BTS (KSM)\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+G:\BTS (KSM)\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb
+D:\BTS (KSM)\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+D:\BTS (KSM)\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+D:\BTS (KSM)\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.dll
+D:\BTS (KSM)\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.pdb
+D:\BTS (KSM)\BTS\BTS.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+D:\BTS (KSM)\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+D:\BTS (KSM)\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb
+C:\Users\Lenovo\Desktop\RealBTS\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+C:\Users\Lenovo\Desktop\RealBTS\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+C:\Users\Lenovo\Desktop\RealBTS\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.dll
+C:\Users\Lenovo\Desktop\RealBTS\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.pdb
+C:\Users\Lenovo\Desktop\RealBTS\BTS\BTS.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\RealBTS\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+C:\Users\Lenovo\Desktop\RealBTS\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb
+C:\Users\Taymyinl\Desktop\RealBTS\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+C:\Users\Taymyinl\Desktop\RealBTS\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+C:\Users\Taymyinl\Desktop\RealBTS\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.dll
+C:\Users\Taymyinl\Desktop\RealBTS\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.pdb
+C:\Users\Taymyinl\Desktop\RealBTS\BTS\BTS.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Taymyinl\Desktop\RealBTS\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+C:\Users\Taymyinl\Desktop\RealBTS\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb
+C:\Users\ThetAung\Desktop\RealBTS\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+C:\Users\ThetAung\Desktop\RealBTS\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+C:\Users\ThetAung\Desktop\RealBTS\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.dll
+C:\Users\ThetAung\Desktop\RealBTS\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.pdb
+C:\Users\ThetAung\Desktop\RealBTS\BTS\BTS.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ThetAung\Desktop\RealBTS\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+C:\Users\ThetAung\Desktop\RealBTS\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb
+C:\Users\yuthandar\Desktop\17.2.2013\BTS\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+C:\Users\yuthandar\Desktop\17.2.2013\BTS\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+C:\Users\yuthandar\Desktop\17.2.2013\BTS\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.dll
+C:\Users\yuthandar\Desktop\17.2.2013\BTS\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.pdb
+C:\Users\yuthandar\Desktop\17.2.2013\BTS\BTS\BTS.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yuthandar\Desktop\17.2.2013\BTS\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+C:\Users\yuthandar\Desktop\17.2.2013\BTS\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb
+C:\Users\yuthandar\Desktop\24.2.2013\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+C:\Users\yuthandar\Desktop\24.2.2013\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+C:\Users\yuthandar\Desktop\24.2.2013\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.dll
+C:\Users\yuthandar\Desktop\24.2.2013\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.pdb
+C:\Users\yuthandar\Desktop\24.2.2013\BTS\BTS.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yuthandar\Desktop\24.2.2013\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+C:\Users\yuthandar\Desktop\24.2.2013\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb
+C:\Users\Mangkhek\Desktop\NewBTS\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+C:\Users\Mangkhek\Desktop\NewBTS\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+C:\Users\Mangkhek\Desktop\NewBTS\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.dll
+C:\Users\Mangkhek\Desktop\NewBTS\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.pdb
+C:\Users\Mangkhek\Desktop\NewBTS\BTS\BTS.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mangkhek\Desktop\NewBTS\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+C:\Users\Mangkhek\Desktop\NewBTS\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb
+D:\PROJECT\GROUP-B\BustTicketSale\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+D:\PROJECT\GROUP-B\BustTicketSale\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+D:\PROJECT\GROUP-B\BustTicketSale\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.dll
+D:\PROJECT\GROUP-B\BustTicketSale\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.pdb
+D:\PROJECT\GROUP-B\BustTicketSale\BTS\BTS.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT\GROUP-B\BustTicketSale\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+D:\PROJECT\GROUP-B\BustTicketSale\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb

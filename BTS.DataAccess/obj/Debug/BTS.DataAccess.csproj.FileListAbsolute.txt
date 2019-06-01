@@ -1,0 +1,10 @@
+D:\Sample Projects\BustTicketSale\BTS\BTS.DataAccess\bin\Debug\BTS.DataAccess.dll
+D:\Sample Projects\BustTicketSale\BTS\BTS.DataAccess\bin\Debug\BTS.DataAccess.pdb
+D:\Sample Projects\BustTicketSale\BTS\BTS.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Sample Projects\BustTicketSale\BTS\BTS.DataAccess\obj\Debug\BTS.DataAccess.dll
+D:\Sample Projects\BustTicketSale\BTS\BTS.DataAccess\obj\Debug\BTS.DataAccess.pdb
+D:\Testing\BTS\BTS.DataAccess\bin\Debug\BTS.DataAccess.dll
+D:\Testing\BTS\BTS.DataAccess\bin\Debug\BTS.DataAccess.pdb
+D:\Testing\BTS\BTS.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Testing\BTS\BTS.DataAccess\obj\Debug\BTS.DataAccess.dll
+D:\Testing\BTS\BTS.DataAccess\obj\Debug\BTS.DataAccess.pdb

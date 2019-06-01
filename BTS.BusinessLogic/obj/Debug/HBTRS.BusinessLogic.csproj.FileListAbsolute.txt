@@ -1,0 +1,51 @@
+D:\Testing\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+D:\Testing\BTS\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+D:\Testing\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.dll
+D:\Testing\BTS\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.pdb
+D:\Testing\BTS\BTS.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+D:\Testing\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+D:\Testing\BTS\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb
+E:\1.  MAY THU ZIN\HBTRS  ZMMPK(15.9.14)\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+E:\1.  MAY THU ZIN\HBTRS  ZMMPK(15.9.14)\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+E:\1.  MAY THU ZIN\HBTRS  ZMMPK(15.9.14)\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.dll
+E:\1.  MAY THU ZIN\HBTRS  ZMMPK(15.9.14)\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.pdb
+E:\1.  MAY THU ZIN\HBTRS  ZMMPK(15.9.14)\BTS.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+E:\1.  MAY THU ZIN\HBTRS  ZMMPK(15.9.14)\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+E:\1.  MAY THU ZIN\HBTRS  ZMMPK(15.9.14)\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb
+E:\1.  MAY THU ZIN\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+E:\1.  MAY THU ZIN\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+E:\1.  MAY THU ZIN\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.dll
+E:\1.  MAY THU ZIN\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.pdb
+E:\1.  MAY THU ZIN\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+E:\1.  MAY THU ZIN\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+E:\1.  MAY THU ZIN\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb
+D:\Testing\May Thu Zin ( Window )\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+D:\Testing\May Thu Zin ( Window )\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+D:\Testing\May Thu Zin ( Window )\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.dll
+D:\Testing\May Thu Zin ( Window )\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.pdb
+D:\Testing\May Thu Zin ( Window )\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+D:\Testing\May Thu Zin ( Window )\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+D:\Testing\May Thu Zin ( Window )\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb
+F:\Final Group-4\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+F:\Final Group-4\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+F:\Final Group-4\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.dll
+F:\Final Group-4\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.pdb
+F:\Final Group-4\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+F:\Final Group-4\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+F:\Final Group-4\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb
+D:\Sample Projects\Final Group-4\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+D:\Sample Projects\Final Group-4\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+D:\Sample Projects\Final Group-4\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.dll
+D:\Sample Projects\Final Group-4\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.pdb
+D:\Sample Projects\Final Group-4\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\obj\Debug\HBTRS.BusinessLogic.csprojResolveAssemblyReference.cache
+D:\Sample Projects\Final Group-4\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+D:\Sample Projects\Final Group-4\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb
+F:\Softwar Storage\Sample Projects\Final Group-4\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.dll
+F:\Softwar Storage\Sample Projects\Final Group-4\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\bin\Debug\BTS.BusinessLogic.pdb
+F:\Softwar Storage\Sample Projects\Final Group-4\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.dll
+F:\Softwar Storage\Sample Projects\Final Group-4\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\bin\Debug\BTS.DataAccess.pdb
+F:\Softwar Storage\Sample Projects\Final Group-4\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\obj\Debug\HBTRS.BusinessLogic.csprojAssemblyReference.cache
+F:\Softwar Storage\Sample Projects\Final Group-4\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\obj\Debug\HBTRS.BusinessLogic.csproj.CoreCompileInputs.cache
+F:\Softwar Storage\Sample Projects\Final Group-4\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\obj\Debug\HBTRS.BusinessLogic.csproj.CopyComplete
+F:\Softwar Storage\Sample Projects\Final Group-4\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.dll
+F:\Softwar Storage\Sample Projects\Final Group-4\Group - 4\Window - Highway Bus Ticket Reservation System\BTS.BusinessLogic\obj\Debug\BTS.BusinessLogic.pdb

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="RouteDataSet" targetNamespace="http://tempuri.org/RouteDataSet.xsd" xmlns:mstns="http://tempuri.org/RouteDataSet.xsd" xmlns="http://tempuri.org/RouteDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="RouteDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="RouteDataSet" msprop:Generator_DataSetName="RouteDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="RouteDataTable" msprop:Generator_UserTableName="RouteDataTable" msprop:Generator_RowDeletedName="RouteDataTableRowDeleted" msprop:Generator_TableClassName="RouteDataTableDataTable" msprop:Generator_RowChangedName="RouteDataTableRowChanged" msprop:Generator_RowClassName="RouteDataTableRow" msprop:Generator_RowChangingName="RouteDataTableRowChanging" msprop:Generator_RowEvArgName="RouteDataTableRowChangeEvent" msprop:Generator_RowEvHandlerName="RouteDataTableRowChangeEventHandler" msprop:Generator_TablePropName="RouteDataTable" msprop:Generator_TableVarName="tableRouteDataTable" msprop:Generator_RowDeletingName="RouteDataTableRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RouteID" msprop:Generator_UserColumnName="RouteID" msprop:Generator_ColumnPropNameInRow="RouteID" msprop:Generator_ColumnVarNameInTable="columnRouteID" msprop:Generator_ColumnPropNameInTable="RouteIDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="RouteCode" msprop:Generator_UserColumnName="RouteCode" msprop:Generator_ColumnPropNameInRow="RouteCode" msprop:Generator_ColumnVarNameInTable="columnRouteCode" msprop:Generator_ColumnPropNameInTable="RouteCodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="RouteName" msprop:Generator_UserColumnName="RouteName" msprop:Generator_ColumnPropNameInRow="RouteName" msprop:Generator_ColumnVarNameInTable="columnRouteName" msprop:Generator_ColumnPropNameInTable="RouteNameColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

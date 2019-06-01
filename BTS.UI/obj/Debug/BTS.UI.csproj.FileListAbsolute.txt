@@ -1,0 +1,220 @@
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\bin\Debug\BTS.UI.exe.config
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.exe
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.pdb
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\bin\Debug\BTS.UI.exe
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\bin\Debug\BTS.UI.pdb
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\bin\Debug\BTS.BusinessLogic.dll
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\bin\Debug\BTS.DataAccess.dll
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\bin\Debug\BTS.BusinessLogic.pdb
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\bin\Debug\BTS.DataAccess.pdb
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\ResolveAssemblyReference.cache
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.CodeSetup.BusType.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.CodeSetup.Driver.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.CodeSetup.Location.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.CodeSetup.TimeSchedule.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.CodeSetup.frmUserLevel.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.Confirm.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.FlatForm.Bus.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.FlatForm.Route.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.FlatForm.TripPlan.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.FlatForm.User.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.Grid.Booking.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.Grid.Sale.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.LogIn.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.MainMenu.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.MainMenuForStaff.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.Posting.SalePosting.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.Process.BookingCancel.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.Process.Trip_Confirm.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.Properties.Resources.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportAll.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.BusReport.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.BusTypeReport.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.DailyReport.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.DriverReport.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.LocationReport.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.MonthlyDetailReport.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.MonthlySummaryReport.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportByOneTripDetail.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportByOneTripSummary.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportBySaleDateDetail.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportBySaleDateSummary.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportBySaleNoDetail.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportBySaleNoSummary.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportByTripCodeDetail.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportByTripCodeSummary.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.RouteReport.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.TimeScheduleReport.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.TripByBusNoReport.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.TripByDriverNameReport.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.TripByRouteNameReport.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.TripCodeReport.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.TripDateReport.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.UserLevelReport.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.UserReport.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.YearlyDetailReport.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.YearlySummaryReport.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.DailyReport.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.MonthlyReport.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.ReportByOneTrip.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.ReportBySaleDate.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.ReportBySaleNo.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.ReportByTripCode.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.TripReport.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.YearlyReport.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.Search.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.SeatDisplay.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.TicketOut.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.UserActionHistory.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.UserControls.NewEditExitButton.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\BTS.UI.UserControls.QuickSearch.resources
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\RdlCompile.cache
+D:\Sample Projects\BustTicketSale\BTS\BTS.UI\obj\Debug\RdlCompile.compiled
+F:\BTS\BTS.UI\bin\Debug\BTS.UI.exe.config
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.exe
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.pdb
+F:\BTS\BTS.UI\bin\Debug\BTS.UI.exe
+F:\BTS\BTS.UI\bin\Debug\BTS.UI.pdb
+F:\BTS\BTS.UI\bin\Debug\BTS.BusinessLogic.dll
+F:\BTS\BTS.UI\bin\Debug\BTS.DataAccess.dll
+F:\BTS\BTS.UI\bin\Debug\BTS.BusinessLogic.pdb
+F:\BTS\BTS.UI\bin\Debug\BTS.DataAccess.pdb
+F:\BTS\BTS.UI\obj\Debug\ResolveAssemblyReference.cache
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.CodeSetup.BusType.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.CodeSetup.Driver.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.CodeSetup.Location.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.CodeSetup.TimeSchedule.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.CodeSetup.frmUserLevel.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.Confirm.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.FlatForm.Bus.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.FlatForm.Route.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.FlatForm.TripPlan.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.FlatForm.User.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.Grid.Booking.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.Grid.Sale.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.LogIn.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.MainMenu.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.MainMenuForStaff.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.Posting.SalePosting.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.Process.BookingCancel.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.Process.Trip_Confirm.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.Properties.Resources.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportAll.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.BusReport.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.BusTypeReport.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.DailyReport.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.DriverReport.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.LocationReport.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.MonthlyDetailReport.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.MonthlySummaryReport.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportByOneTripDetail.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportByOneTripSummary.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportBySaleDateDetail.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportBySaleDateSummary.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportBySaleNoDetail.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportBySaleNoSummary.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportByTripCodeDetail.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportByTripCodeSummary.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.RouteReport.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.TimeScheduleReport.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.TripByBusNoReport.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.TripByDriverNameReport.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.TripByRouteNameReport.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.TripCodeReport.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.TripDateReport.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.UserLevelReport.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.UserReport.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.YearlyDetailReport.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.YearlySummaryReport.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.DailyReport.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.MonthlyReport.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.ReportByOneTrip.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.ReportBySaleDate.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.ReportBySaleNo.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.ReportByTripCode.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.TripReport.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.YearlyReport.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.Search.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.SeatDisplay.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.TicketOut.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.UserActionHistory.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.UserControls.NewEditExitButton.resources
+F:\BTS\BTS.UI\obj\Debug\BTS.UI.UserControls.QuickSearch.resources
+F:\BTS\BTS.UI\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\BTS\BTS.UI\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\BTS\BTS.UI\obj\Debug\RdlCompile.cache
+F:\BTS\BTS.UI\obj\Debug\RdlCompile.compiled
+D:\Testing\BTS\BTS.UI\bin\Debug\BTS.UI.exe.config
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.exe
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.pdb
+D:\Testing\BTS\BTS.UI\obj\Debug\ResolveAssemblyReference.cache
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.CodeSetup.BusType.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.CodeSetup.Driver.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.CodeSetup.Location.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.CodeSetup.TimeSchedule.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.CodeSetup.frmUserLevel.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.FlatForm.Bus.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.FlatForm.Route.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.FlatForm.TripPlan.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.FlatForm.User.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.Grid.Booking.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.Grid.Sale.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.LogIn.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.MainMenu.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.MainMenuForStaff.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.Posting.SalePosting.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.Process.BookingCancel.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.Properties.Resources.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportAll.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.BusReport.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.BusTypeReport.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.DailyReport.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.DriverReport.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.LocationReport.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.MonthlyDetailReport.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.MonthlySummaryReport.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportByOneTripDetail.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportByOneTripSummary.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportBySaleDateDetail.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportBySaleDateSummary.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportBySaleNoDetail.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportBySaleNoSummary.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportByTripCodeDetail.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.ReportByTripCodeSummary.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.RouteReport.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.TimeScheduleReport.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.TripByBusNoReport.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.TripByDriverNameReport.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.TripByRouteNameReport.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.TripCodeReport.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.TripDateReport.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.UserLevelReport.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.UserReport.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.YearlyDetailReport.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.ReportDisplay.YearlySummaryReport.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.DailyReport.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.MonthlyReport.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.ReportByOneTrip.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.ReportBySaleDate.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.ReportBySaleNo.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.ReportByTripCode.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.TripReport.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.Reports.YearlyReport.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.Search.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.SeatDisplay.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.TicketOut.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.UserActionHistory.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.UserControls.NewEditExitButton.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\BTS.UI.UserControls.QuickSearch.resources
+D:\Testing\BTS\BTS.UI\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Testing\BTS\BTS.UI\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Testing\BTS\BTS.UI\obj\Debug\RdlCompile.cache
+D:\Testing\BTS\BTS.UI\obj\Debug\RdlCompile.compiled
+D:\Testing\BTS\BTS.UI\bin\Debug\BTS.UI.exe
+D:\Testing\BTS\BTS.UI\bin\Debug\BTS.UI.pdb
+D:\Testing\BTS\BTS.UI\bin\Debug\BTS.BusinessLogic.dll
+D:\Testing\BTS\BTS.UI\bin\Debug\BTS.DataAccess.dll
+D:\Testing\BTS\BTS.UI\bin\Debug\BTS.BusinessLogic.pdb
+D:\Testing\BTS\BTS.UI\bin\Debug\BTS.DataAccess.pdb

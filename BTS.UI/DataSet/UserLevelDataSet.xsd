@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="UserLevelDataSet" targetNamespace="http://tempuri.org/UserLevelDataSet.xsd" xmlns:mstns="http://tempuri.org/UserLevelDataSet.xsd" xmlns="http://tempuri.org/UserLevelDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="UserLevelDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="UserLevelDataSet" msprop:Generator_DataSetName="UserLevelDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="UserLevelDataTable" msprop:Generator_UserTableName="UserLevelDataTable" msprop:Generator_RowDeletedName="UserLevelDataTableRowDeleted" msprop:Generator_TableClassName="UserLevelDataTableDataTable" msprop:Generator_RowChangedName="UserLevelDataTableRowChanged" msprop:Generator_RowClassName="UserLevelDataTableRow" msprop:Generator_RowChangingName="UserLevelDataTableRowChanging" msprop:Generator_RowEvArgName="UserLevelDataTableRowChangeEvent" msprop:Generator_RowEvHandlerName="UserLevelDataTableRowChangeEventHandler" msprop:Generator_TablePropName="UserLevelDataTable" msprop:Generator_TableVarName="tableUserLevelDataTable" msprop:Generator_RowDeletingName="UserLevelDataTableRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="UserLevelID" msprop:Generator_UserColumnName="UserLevelID" msprop:Generator_ColumnPropNameInRow="UserLevelID" msprop:Generator_ColumnVarNameInTable="columnUserLevelID" msprop:Generator_ColumnPropNameInTable="UserLevelIDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="UserLevelCode" msprop:Generator_UserColumnName="UserLevelCode" msprop:Generator_ColumnPropNameInRow="UserLevelCode" msprop:Generator_ColumnVarNameInTable="columnUserLevelCode" msprop:Generator_ColumnPropNameInTable="UserLevelCodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="UserLevel" msprop:Generator_UserColumnName="UserLevel" msprop:Generator_ColumnPropNameInRow="UserLevel" msprop:Generator_ColumnVarNameInTable="columnUserLevel" msprop:Generator_ColumnPropNameInTable="UserLevelColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

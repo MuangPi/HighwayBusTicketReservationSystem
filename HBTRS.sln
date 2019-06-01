@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HBTRS.UI", "BTS.UI\HBTRS.UI.csproj", "{AFCC568B-9F8B-41AC-B46F-9E94EBA1EA5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HBTRS.DataAccess", "BTS.DataAccess\HBTRS.DataAccess.csproj", "{F5653B1B-B6EB-4C4B-ABE0-C832BE19C816}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HBTRS.BusinessLogic", "BTS.BusinessLogic\HBTRS.BusinessLogic.csproj", "{16A9A250-6ABE-48B4-916B-8A31E53E6930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFCC568B-9F8B-41AC-B46F-9E94EBA1EA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCC568B-9F8B-41AC-B46F-9E94EBA1EA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCC568B-9F8B-41AC-B46F-9E94EBA1EA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCC568B-9F8B-41AC-B46F-9E94EBA1EA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5653B1B-B6EB-4C4B-ABE0-C832BE19C816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5653B1B-B6EB-4C4B-ABE0-C832BE19C816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5653B1B-B6EB-4C4B-ABE0-C832BE19C816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5653B1B-B6EB-4C4B-ABE0-C832BE19C816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16A9A250-6ABE-48B4-916B-8A31E53E6930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A9A250-6ABE-48B4-916B-8A31E53E6930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A9A250-6ABE-48B4-916B-8A31E53E6930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A9A250-6ABE-48B4-916B-8A31E53E6930}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
